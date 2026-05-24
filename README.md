@@ -114,7 +114,7 @@ GROUP BY toss_decision;
 ## 👤 Author
 
 SHAIPSHI
-- LinkedIn: https://www.linkedin.com/in/shaipshi-verya-1b918a162/
+- LinkedIn: https://www.linkedin.com/in/shaipshi-1b918a162/
 - GitHub: https://github.com/shaipshiverya
 
 ---
